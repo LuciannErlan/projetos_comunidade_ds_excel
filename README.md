@@ -1,6 +1,6 @@
 # 📊 Portfólio de Projetos de Dados: SuperStore (Excel Avançado)
 
-Repositório dedicado a soluções de análise de dados aplicadas ao negócio desenvolvidas para a **SuperStore** (rede fictícia de supermercados)[cite: 1, 2], utilizando **Microsoft Excel** para ETL, modelagem, análise exploratória e criação de indicadores estratégicos para tomadas de decisão.
+Repositório dedicado a soluções de análise de dados aplicadas ao negócio desenvolvidas para a **SuperStore** (rede fictícia de supermercados), utilizando **Microsoft Excel** para ETL, modelagem, análise exploratória e criação de indicadores estratégicos para tomadas de decisão.
 
 ---
 
